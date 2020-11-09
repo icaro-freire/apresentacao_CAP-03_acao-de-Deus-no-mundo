@@ -1,0 +1,65 @@
+%==============================================================================
+% Pacotes
+%==============================================================================
+\ProvidesPackage{sty/beamercolorthemeNord}
+\ProvidesPackage{sty/beamerfontthemeNord}
+\ProvidesPackage{sty/beamerthemeNord}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+ \setdefaultlanguage[variant=brazilian]{portuguese}
+\usepackage{amsmath, amssymb, amsfonts, amscd}
+	\usefonttheme[onlymath]{serif}
+\usepackage{ragged2e}%----------------------> Paragrafo justificado \justifying
+\usepackage{esint}%-------------------> Integrais circulares  \ointctrclockwise
+\usepackage{array}
+\usepackage{graphicx}
+	\graphicspath{{./figs/}}
+\usepackage{metalogo}
+\usepackage{booktabs}
+\usepackage{listings}
+\usepackage{tikz}
+%==============================================================================
+
+%==============================================================================
+% Configurações do Beamer
+%==============================================================================
+\usetheme{Nord}
+%------------------------------------------------------------------------------
+\AtBeginSection[]
+{
+  \begin{frame}[c,noframenumbering,plain]
+    \tableofcontents[sectionstyle=show/hide,subsectionstyle=show/show/hide]
+  \end{frame}
+}
+
+\AtBeginSubsection[]
+{
+  \begin{frame}[c,noframenumbering,plain]
+    \tableofcontents[sectionstyle=show/hide,subsectionstyle=show/shaded/hide]
+  \end{frame}
+}
+%------------------------------------------------------------------------------
+%==============================================================================
+
+%==============================================================================
+% Novos Comandos
+%==============================================================================
+% Operadores ------------------------------------------------------------------
+% \DeclareMathOperator{\nec}{nec}
+%------------------------------------------------------------------------------
+% Comandos --------------------------------------------------------------------
+\newcommand{\cqd}{\hfill $\blacksquare$}
+%------------------------------------------------------------------------------
+%==============================================================================
+
+
+%------------------------------------------------------------------------------
+% Titulo
+%------------------------------------------------------------------------------
+\title{A Ação Divina no Mundo}
+\subtitle{As Perspectivas Antigas}
+\author{Ícaro, Jacqueline \& Lucas }
+\institute{Contraponto/CFP/UFRB}
+\date{\today}
+%------------------------------------------------------------------------------
