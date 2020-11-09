@@ -1,0 +1,7 @@
+\selectlanguage *[variant=brazilian]{portuguese}
+\beamer@sectionintoc {1}{Introdução}{2}{0}{1}
+\beamer@sectionintoc {2}{O (suposto) Problema}{28}{0}{2}
+\beamer@sectionintoc {3}{Perspectivas Antigas}{78}{0}{3}
+\beamer@subsectionintoc {3}{1}{Panorama}{79}{0}{3}
+\beamer@subsectionintoc {3}{2}{A perspectiva newtoniana}{87}{0}{3}
+\beamer@subsectionintoc {3}{3}{A perspectiva laplaciana}{165}{0}{3}
