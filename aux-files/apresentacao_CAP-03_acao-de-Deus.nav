@@ -57,8 +57,15 @@
 \headcommand {\beamer@framepages {165}{165}}
 \headcommand {\slideentry {3}{3}{2}{166/180}{A perspectiva laplaciana}{0}}
 \headcommand {\beamer@framepages {166}{180}}
-\headcommand {\beamer@partpages {1}{180}}
-\headcommand {\beamer@subsectionpages {165}{180}}
 \headcommand {\beamer@sectionpages {78}{180}}
-\headcommand {\beamer@documentpages {180}}
-\headcommand {\gdef \inserttotalframenumber {15}}
+\headcommand {\beamer@subsectionpages {165}{180}}
+\headcommand {\sectionentry {4}{Referências}{181}{Referências}{0}}
+\headcommand {\slideentry {4}{0}{1}{181/181}{}{0}}
+\headcommand {\beamer@framepages {181}{181}}
+\headcommand {\slideentry {4}{0}{2}{182/182}{}{0}}
+\headcommand {\beamer@framepages {182}{182}}
+\headcommand {\beamer@partpages {1}{182}}
+\headcommand {\beamer@subsectionpages {181}{182}}
+\headcommand {\beamer@sectionpages {181}{182}}
+\headcommand {\beamer@documentpages {182}}
+\headcommand {\gdef \inserttotalframenumber {16}}
