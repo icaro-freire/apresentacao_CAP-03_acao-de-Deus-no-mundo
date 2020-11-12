@@ -12,8 +12,10 @@ Formação de Professores, da Universidade Federal do Recôncavo da Bahia.
 [CRN]: https://www.cristaosnaciencia.org.br/produto/ciencia-religiao-e-naturalismo/
 [AP]: https://pt.wikipedia.org/wiki/Alvin_Plantinga
 
-## Sobre o Beamer
+## Sobre a Classe do Beamer
 
-A classe do Beamer, usada na apresentação, foi retirada [daqui][NORD].
+A classe do Beamer, usada na apresentação, utiliza a paleta de cores [Nord][COR].
+Para mais informações sobre tal classe veja [aqui][NORD].
 
+[COR]: https://www.nordtheme.com/
 [NORD]: https://github.com/junwei-wang/beamerthemeNord
