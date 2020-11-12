@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  12 NOV 2020 07:46
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  12 NOV 2020 09:31
 entering extended mode
 **./apresentacao_CAP-03_acao-de-Deus.tex
 (apresentacao_CAP-03_acao-de-Deus.tex
@@ -1068,48 +1068,13 @@ File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 arytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 )))
-(C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/abntex2\abntex2cite.sty
-Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
-
-("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count353
-\calc@Bcount=\count354
-\calc@Adimen=\dimen319
-\calc@Bdimen=\dimen320
-\calc@Askip=\skip79
-\calc@Bskip=\skip80
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count355
-\calc@Cskip=\skip81
-)
-(C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/abntex2\abntex2abrev.sty)
-(C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-\bibindent=\skip82
-\minimumbiblabelwidth=\skip83
-\ABCIauxlen=\skip84
-\c@ABCIaux=\count356
-\c@ABCImax=\count357
-
-(C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/relsize\relsize.sty
-Package: relsize 2013/03/29 ver 4.1
-)
-\biblabelsep=\skip85
-LaTeX Info: Redefining \newblock on input line 591.
-LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks53
-)
 (C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/beamerthemenord\beamerthemeNor
 d.sty
 Package: beamerthemeNord 2020/08/24 v0.2.0 A simple beamer theme using Nord col
 or scheme
-
+ ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
 (C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/beamerthemenord\beamercolorthe
 meNord.sty)
 (C:\Users\Icaro\AppData\Roaming\MiKTeX\tex/latex/beamerthemenord\beamerfontthem
@@ -1121,9 +1086,9 @@ x-files\apresentacao_CAP-03_acao-de-Deus.aux"
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-LaTeX Info: Redefining \rmfamily on input line 20.
-LaTeX Info: Redefining \sffamily on input line 20.
-LaTeX Info: Redefining \ttfamily on input line 20.
+LaTeX Info: Redefining \rmfamily on input line 19.
+LaTeX Info: Redefining \sffamily on input line 19.
+LaTeX Info: Redefining \ttfamily on input line 19.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
@@ -1202,7 +1167,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count358
+\c@section@level=\count353
 )
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
@@ -1339,7 +1304,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/lmtt/b/n --> TU/lmtt/b/n on input line 12.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 12.
-\c@lstlisting=\count359
+\c@lstlisting=\count354
 
 ("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
 ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
@@ -2387,9 +2352,16 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 ) [181
 
 ]
-No file apresentacao_CAP-03_acao-de-Deus.bbl.
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
 \nord@tmpbox=\box316
-[182
+ [182
 
 ])
 \tf@nav=\write6
@@ -2443,9 +2415,9 @@ x-files\apresentacao_CAP-03_acao-de-Deus.aux"
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-LaTeX Info: Redefining \rmfamily on input line 20.
-LaTeX Info: Redefining \sffamily on input line 20.
-LaTeX Info: Redefining \ttfamily on input line 20.
+LaTeX Info: Redefining \rmfamily on input line 19.
+LaTeX Info: Redefining \sffamily on input line 19.
+LaTeX Info: Redefining \ttfamily on input line 19.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
@@ -2456,12 +2428,12 @@ t changed.
 (rerunfilecheck)             Checksum: EFDF6E81C17E7BCE4392D2AF61FBF669;540.
  ) 
 Here is how much of TeX's memory you used:
- 29526 strings out of 412197
- 590320 string characters out of 2853944
- 991110 words of memory out of 3000000
- 48384 multiletter control sequences out of 15000+200000
+ 29106 strings out of 412197
+ 584758 string characters out of 2853944
+ 984580 words of memory out of 3000000
+ 47980 multiletter control sequences out of 15000+200000
  545709 words of font info for 112 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 125i,19n,126p,495b,1150s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 125i,19n,126p,495b,1141s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on apresentacao_CAP-03_acao-de-Deus.pdf (182 pages).
