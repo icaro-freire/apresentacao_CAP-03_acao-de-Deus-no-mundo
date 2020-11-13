@@ -16,11 +16,13 @@ Esses são os arquivos da apresentação do Capítulo 03 do livro [Ciência,
 Religião e Naturalismo: onde está o conflito?][CRN], do filósofo analítico 
 [Alvin Plantinga][AP].
 Essas apresentações estão inseridas no contexdo do Grupo de Estudo sobre 
-integração entre ciência e fé cristã, denominado Contraponto, do Centro de
-Formação de Professores, da Universidade Federal do Recôncavo da Bahia.
+integração entre ciência e fé cristã, denominado Contraponto, do [Centro de
+Formação de Professores][CFP], da [Universidade Federal do Recôncavo da Bahia][UFRB].
 
 [CRN]: https://www.cristaosnaciencia.org.br/produto/ciencia-religiao-e-naturalismo/
 [AP]: https://pt.wikipedia.org/wiki/Alvin_Plantinga
+[CFP]: https://www.ufrb.edu.br/cfp/
+[UFRB]: https://www.ufrb.edu.br/portal/
 
 ## Sobre a Classe do Beamer
 
