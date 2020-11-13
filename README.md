@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/figs/contraponto_dark_circ.svg" align="center" alt="Grupo de Estudo" />
- <h2 align="center">Grupo de Estudo</h2>
- <p align="center">Ciência e Fé Cristã</p>
+ <img width="100px" src="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/figs/logo_contraponto.pdf" align="center" alt="Grupo de Estudo" />
+ <h2 align="center">Contraponto</h2>
+ <p align="center">(Integração entre Ciência e Fé Cristã)</p>
 </p>
 
 # Apresentação Contraponto
