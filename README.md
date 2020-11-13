@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/figs/contraponto_dark_circ.svg" align="center" alt="Grupo de Estudo" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Adicione suas estatísticas no GitHub geradas dinamicamente em seus readmes!</p>
+ <h2 align="center">Grupo de Estudo</h2>
+ <p align="center">Ciência e Fé Cristã</p>
 </p>
 
 # Apresentação Contraponto
