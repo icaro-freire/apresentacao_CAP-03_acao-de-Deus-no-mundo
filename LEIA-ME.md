@@ -31,7 +31,7 @@ Para mais informações sobre tal classe veja [aqui][NORD].
 
 #### :warning: Atenção!
 
-Caso venha a usar o arquivo em seu computador, use os compiladores [LuaLaTeX][LUA] ou [XeLaTeX][XE].
+> Caso venha a usar o arquivo em seu computador, use os compiladores [LuaLaTeX][LUA] ou [XeLaTeX][XE].
 
 [COR]: https://www.nordtheme.com/
 [NORD]: https://github.com/junwei-wang/beamerthemeNord
