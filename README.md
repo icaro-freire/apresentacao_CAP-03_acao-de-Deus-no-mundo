@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    [https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf](Apresentação em pdf)
+    [Apresentação em pdf](https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf)
     ·
-    [https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new](Reporte Erros)
+    [Reporte Erros](https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new)
   </p>
 
 # Apresentação Contraponto
