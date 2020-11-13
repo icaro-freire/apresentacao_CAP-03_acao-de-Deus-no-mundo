@@ -29,5 +29,9 @@ Formação de Professores][CFP], da [Universidade Federal do Recôncavo da Bahia
 A classe do Beamer, usada na apresentação, utiliza a paleta de cores [Nord][COR].
 Para mais informações sobre tal classe veja [aqui][NORD].
 
+:warning: Caso venha a usar o arquivo em seu computador, use os compiladores [LuaLaTeX][LUA] ou [XeLaTeX][XE].
+
 [COR]: https://www.nordtheme.com/
 [NORD]: https://github.com/junwei-wang/beamerthemeNord
+[LUA]:http://www.luatex.org/
+[XE]: https://tug.org/xetex/
