@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-    [Apresentação em pdf](https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf)
+    <a href="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf">Apresentação em pdf</a>
     ·
-    [Reporte Erros](https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new)
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Reporte Erros</a>
+    ·
+    <a href="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new">Reporte Erros Aqui</a>
   </p>
-
+  
 # Apresentação Contraponto
 
 ## Sobre os arquivos
