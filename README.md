@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf">:link:Apresentação em pdf</a>
-    ·
-    <a href="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new/choose">Reporte Erros</a>
-  </p>
+    <a href="https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf">:link: Apresentação em pdf</a>
+</p>
   
 # Apresentação Contraponto
 
