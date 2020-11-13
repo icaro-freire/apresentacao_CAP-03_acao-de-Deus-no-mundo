@@ -4,6 +4,12 @@
  <p align="center">(Integração entre Ciência e Fé Cristã)</p>
 </p>
 
+<p align="center">
+    [Apresentação](https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/blob/master/apresentacao_CAP-03_acao-de-Deus.pdf)
+    ·
+    [Reporte Erros]("https://github.com/icaro-freire/apresentacao_CAP-03_acao-de-Deus-no-mundo/issues/new")
+  </p>
+
 # Apresentação Contraponto
 
 ## Sobre os arquivos
