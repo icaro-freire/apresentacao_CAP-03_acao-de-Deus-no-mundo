@@ -13,7 +13,7 @@
  \end{minipage} 
 \end{frame}
 
-\begin{frame}{Esclarecimentos Iniciais}{O que pensa o Cristão?}
+\begin{frame}<1-11>[label=mundos]{Esclarecimentos Iniciais}{O que pensa o Cristão?} %-----> marcação para esclarecimentos
  \begin{itemize}
   \item<2-|alert@2> Deus é uma Pessoa;
    \only<3-5>{
@@ -21,10 +21,10 @@
      \item<3-5> ser dotado de conhecimento e afeição;
      \item<4-5> ser com objetivos definidos;
      \item<5> age para alcançar tais objetivos.
-   \end{itemize}
+    \end{itemize}
    }
   \item<6-|alert@6> Deus é Onisciente, Onipotente, Onipresente e Completamente Bom;
-  \item<7-|alert@7> Deus é um ser necessário;\
+  \item<7-|alert@7> Deus é um ser necessário;
    \only<8-13>{
     \begin{itemize}
      \item<8-> existe em todos os ``mundos possíveis''
@@ -61,3 +61,64 @@
  \end{itemize}
 
 \end{frame}
+
+\begin{frame}{\textbf{Mundos possível?}}
+  \begin{exampleblock}{Em termos proposicionais}
+   \begin{itemize}
+    \item<2-> Nosso mundo (mundo real):
+     \only<3->{
+      \[
+       p_1 \wedge p_2 \wedge p_3 \wedge \ldots \wedge p_n ;
+      \]
+     }
+    \item<4-> Outros mundos: qualquer combinação que negue o mundo real.
+      \begin{align*}
+       \only<5->{\textcolor{NordYellow}{(\sim\! p_1)} \wedge p_2 \wedge p_3 \wedge &\ldots \wedge p_{n-1}\wedge p_n\\}
+       \only<6->{p_1 \wedge \textcolor{NordYellow}{(\sim\! p_2)} \wedge p_3 \wedge &\ldots \wedge p_{n-1}\wedge p_n\\}
+       \only<7->{p_1 \wedge p_2 \wedge \textcolor{NordYellow}{(\sim\! p_3)} \wedge &\ldots \wedge p_{n-1}\wedge p_n\\}
+       \only<8->{&\;\;\vdots}
+      \end{align*}
+   \end{itemize}
+  \end{exampleblock}
+\end{frame}
+
+\begin{frame}{Mundos possíveis?}
+	 \begin{exampleblock}{Exemplos possíveis}
+   \begin{itemize}[<+->]
+    \item Mundo real:     \textcolor{NordYellow}{Asaph não caiu da \textit{bike} descendo a ladeira.}
+    \item Mundo Possível: \textcolor{NordYellow}{Asaph caiu da \textit{bike} a ladeira.}
+    \item Mundo real:     \textcolor{NordGreen}{Glênon é um professor carrasco de física.}
+    \item Mundo possível: \textcolor{NordGreen}{Glênon não é um professor carrasco de física.}
+    \item Mundo real:     \textcolor{NordYellow}{Cachorros não falam ou escrevem}
+    \item Mundo possível: \textcolor{NordYellow}{Cachorros falam e escrevem}
+    \item Mundo real:     \textcolor{NordGreen}{Agora está chovendo.}
+    \item Mundo Possível: \textcolor{NordGreen}{Agora não está chovendo.}
+   \end{itemize}
+  \end{exampleblock}
+  
+  \begin{block}<9->{Pergunta importante}
+   \only<10->{$\triangleright$ É possível, em qualquer mundo, está chovendo e não chovendo?}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Falsidades Necessárias}
+	 \begin{exampleblock}<2->{Exemplos de falsidades em qualquer mundo possível}
+   \begin{itemize}
+    \item<3-> $ p \wedge (\sim\! p)$;
+    \item<4-> A ideia de que ``$ 1 + 1 \neq 2 $''.
+    \item<5-> Um objeto que possui qualidades maximais em certo conjunto, mas que não contenha alguma qualidade desse conjunto.
+   \end{itemize}
+  \end{exampleblock}
+  
+  \begin{itemize}
+   \item<6-> Qual o contrário de Falsidades Necessárias?
+    \begin{itemize}
+     \item<7-> Tautologias $\big(\text{e.g.: } p \vee (\sim\! p)\big)$: Está chovendo ou não chovendo.
+     \item<8-> A ideia de que ``$ 1 + 1 = 2 $''
+    \end{itemize}
+   \item<9-|alert@9> É possível um ser maximal existir em um mundo possível e não existir em outro?
+   \item<10-> Falsidades Necessárias \textit{vs} \textcolor{NordGreen}{Verdades Necessárias}
+  \end{itemize}
+\end{frame}
+
+\againframe<12->{mundos} %----------------> volta à marcação do frame principal

@@ -1,8 +1,8 @@
 \selectlanguage *[variant=brazilian]{portuguese}
 \beamer@sectionintoc {1}{Introdução}{2}{0}{1}
-\beamer@sectionintoc {2}{O (suposto) Problema}{28}{0}{2}
-\beamer@sectionintoc {3}{Perspectivas Antigas}{78}{0}{3}
-\beamer@subsectionintoc {3}{1}{Panorama}{79}{0}{3}
-\beamer@subsectionintoc {3}{2}{A perspectiva newtoniana}{87}{0}{3}
-\beamer@subsectionintoc {3}{3}{A perspectiva laplaciana}{165}{0}{3}
-\beamer@sectionintoc {4}{Referências}{181}{0}{4}
+\beamer@sectionintoc {2}{O (suposto) Problema}{56}{0}{2}
+\beamer@sectionintoc {3}{Perspectivas Antigas}{106}{0}{3}
+\beamer@subsectionintoc {3}{1}{Panorama}{107}{0}{3}
+\beamer@subsectionintoc {3}{2}{A perspectiva newtoniana}{115}{0}{3}
+\beamer@subsectionintoc {3}{3}{A perspectiva laplaciana}{193}{0}{3}
+\beamer@sectionintoc {4}{Referências}{209}{0}{4}

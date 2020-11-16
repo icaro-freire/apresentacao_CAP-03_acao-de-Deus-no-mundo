@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  15 NOV 2020 09:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  16 NOV 2020 11:34
 entering extended mode
 **./apresentacao_CAP-03_acao-de-Deus.tex
 (apresentacao_CAP-03_acao-de-Deus.tex
@@ -1447,11 +1447,15 @@ File: ./figs//chess.jpg Graphic file (type bmp)
  [23
 
 ]
-\nord@tmpbox=\box108
+Overfull \vbox (4.20433pt too high) detected at line 83
+ []
 
+\nord@tmpbox=\box108
 [24
 
 ]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 102.
 \nord@tmpbox=\box109
  [25
 
@@ -1462,6 +1466,122 @@ File: ./figs//chess.jpg Graphic file (type bmp)
 ]
 \nord@tmpbox=\box111
  [27
+
+]
+\nord@tmpbox=\box112
+ [28
+
+]
+\nord@tmpbox=\box113
+ [29
+
+]
+\nord@tmpbox=\box114
+ [30
+
+]
+\nord@tmpbox=\box115
+ [31
+
+]
+\nord@tmpbox=\box116
+ [32
+
+]
+\nord@tmpbox=\box117
+ [33
+
+]
+Overfull \vbox (9.04097pt too high) detected at line 102
+ []
+
+\nord@tmpbox=\box118
+[34
+
+]
+\nord@tmpbox=\box119
+ [35
+
+]
+\nord@tmpbox=\box120
+ [36
+
+]
+\nord@tmpbox=\box121
+ [37
+
+]
+\nord@tmpbox=\box122
+ [38
+
+]
+\nord@tmpbox=\box123
+ [39
+
+]
+\nord@tmpbox=\box124
+ [40
+
+]
+\nord@tmpbox=\box125
+ [41
+
+]
+\nord@tmpbox=\box126
+ [42
+
+]
+\nord@tmpbox=\box127
+ [43
+
+]
+\nord@tmpbox=\box128
+ [44
+
+]
+\nord@tmpbox=\box129
+ [45
+
+]
+\nord@tmpbox=\box130
+ [46
+
+]
+\nord@tmpbox=\box131
+ [47
+
+]
+\nord@tmpbox=\box132
+ [48
+
+]
+\nord@tmpbox=\box133
+
+[49
+
+]
+\nord@tmpbox=\box134
+ [50
+
+]
+\nord@tmpbox=\box135
+ [51
+
+]
+\nord@tmpbox=\box136
+ [52
+
+]
+\nord@tmpbox=\box137
+ [53
+
+]
+\nord@tmpbox=\box138
+ [54
+
+]
+\nord@tmpbox=\box139
+ [55
 
 ]) (tex/sections/02_sec_problema.tex
 ("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
@@ -1478,298 +1598,82 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [28
+) [56
 
 ]
-\nord@tmpbox=\box112
- [29
-
-]
-File: ./figs//gilkey.jpg Graphic file (type bmp)
-<./figs//gilkey.jpg>
-\nord@tmpbox=\box113
- [30
-
-]
-File: ./figs//bultmann.jpg Graphic file (type bmp)
-<./figs//bultmann.jpg>
-\nord@tmpbox=\box114
- [31
-
-]
-File: ./figs//macquarrie.jpg Graphic file (type bmp)
-<./figs//macquarrie.jpg>
-\nord@tmpbox=\box115
- [32
-
-]
-File: ./figs//gilkey.jpg Graphic file (type bmp)
-<./figs//gilkey.jpg>
-\nord@tmpbox=\box116
-
-[33
-
-]
-File: ./figs//gilkey.jpg Graphic file (type bmp)
-<./figs//gilkey.jpg>
-\nord@tmpbox=\box117
- [34
-
-]
-File: ./figs//bultmann.jpg Graphic file (type bmp)
-<./figs//bultmann.jpg>
-\nord@tmpbox=\box118
- [35
-
-]
-File: ./figs//bultmann.jpg Graphic file (type bmp)
-<./figs//bultmann.jpg>
-\nord@tmpbox=\box119
- [36
-
-]
-File: ./figs//bultmann.jpg Graphic file (type bmp)
-<./figs//bultmann.jpg>
-\nord@tmpbox=\box120
- [37
-
-]
-File: ./figs//bultmann.jpg Graphic file (type bmp)
-<./figs//bultmann.jpg>
-\nord@tmpbox=\box121
- [38
-
-]
-File: ./figs//macquarrie.jpg Graphic file (type bmp)
-<./figs//macquarrie.jpg>
-\nord@tmpbox=\box122
- [39
-
-]
-File: ./figs//macquarrie.jpg Graphic file (type bmp)
-<./figs//macquarrie.jpg>
-\nord@tmpbox=\box123
- [40
-
-]
-File: ./figs//macquarrie.jpg Graphic file (type bmp)
-<./figs//macquarrie.jpg>
-\nord@tmpbox=\box124
- [41
-
-]
-\nord@tmpbox=\box125
- [42
-
-]
-\nord@tmpbox=\box126
- [43
-
-]
-\nord@tmpbox=\box127
- [44
-
-]
-\nord@tmpbox=\box128
- [45
-
-]
-\nord@tmpbox=\box129
- [46
-
-]
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 101.
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box130
-[47
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box131
-[48
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box132
-[49
-
-]
-File: ./figs//dawkins.jpg Graphic file (type bmp)
-<./figs//dawkins.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box133
-[50
-
-]
-File: ./figs//peter.png Graphic file (type bmp)
-<./figs//peter.png>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box134
-[51
-
-]
-File: ./figs//vaca.jpg Graphic file (type bmp)
-<./figs//vaca.jpg>
-
-Overfull \vbox (26.92397pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box135
-[52
-
-]
-File: ./figs//orr.jpg Graphic file (type bmp)
-<./figs//orr.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box136
-[53
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box137
-[54
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box138
-[55
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
-\nord@tmpbox=\box139
-[56
-
-]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
 \nord@tmpbox=\box140
-[57
+ [57
 
 ]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//gilkey.jpg Graphic file (type bmp)
+<./figs//gilkey.jpg>
 \nord@tmpbox=\box141
-[58
+ [58
 
 ]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//bultmann.jpg Graphic file (type bmp)
+<./figs//bultmann.jpg>
 \nord@tmpbox=\box142
-[59
+ [59
 
 ]
-File: ./figs//clayton.jpg Graphic file (type bmp)
-<./figs//clayton.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//macquarrie.jpg Graphic file (type bmp)
+<./figs//macquarrie.jpg>
 \nord@tmpbox=\box143
-[60
+ [60
 
 ]
-File: ./figs//merovingian.jpg Graphic file (type bmp)
-<./figs//merovingian.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//gilkey.jpg Graphic file (type bmp)
+<./figs//gilkey.jpg>
 \nord@tmpbox=\box144
+
 [61
 
 ]
-File: ./figs//sherlock.jpg Graphic file (type bmp)
-<./figs//sherlock.jpg>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//gilkey.jpg Graphic file (type bmp)
+<./figs//gilkey.jpg>
 \nord@tmpbox=\box145
-[62
+ [62
 
 ]
-File: ./figs//watson-skinner.png Graphic file (type bmp)
-<./figs//watson-skinner.png>
-
-Overfull \vbox (2.03014pt too high) detected at line 101
- []
-
+File: ./figs//bultmann.jpg Graphic file (type bmp)
+<./figs//bultmann.jpg>
 \nord@tmpbox=\box146
-[63
+ [63
 
 ]
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 123.
+File: ./figs//bultmann.jpg Graphic file (type bmp)
+<./figs//bultmann.jpg>
 \nord@tmpbox=\box147
  [64
 
 ]
+File: ./figs//bultmann.jpg Graphic file (type bmp)
+<./figs//bultmann.jpg>
 \nord@tmpbox=\box148
  [65
 
 ]
+File: ./figs//bultmann.jpg Graphic file (type bmp)
+<./figs//bultmann.jpg>
 \nord@tmpbox=\box149
  [66
 
 ]
+File: ./figs//macquarrie.jpg Graphic file (type bmp)
+<./figs//macquarrie.jpg>
 \nord@tmpbox=\box150
  [67
 
 ]
+File: ./figs//macquarrie.jpg Graphic file (type bmp)
+<./figs//macquarrie.jpg>
 \nord@tmpbox=\box151
  [68
 
 ]
+File: ./figs//macquarrie.jpg Graphic file (type bmp)
+<./figs//macquarrie.jpg>
 \nord@tmpbox=\box152
  [69
 
@@ -1794,80 +1698,248 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
  [74
 
 ]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 101.
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box158
- [75
+[75
 
 ]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box159
- [76
+[76
 
 ]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box160
- [77
-
-])
-(tex/sections/03_sec_perspectivas-antigas.tex
-("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
-ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
-x-files\apresentacao_CAP-03_acao-de-Deus.toc"
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-LaTeX Info: Redefining \rmfamily on input line 1.
-LaTeX Info: Redefining \sffamily on input line 1.
-LaTeX Info: Redefining \ttfamily on input line 1.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [78
+[77
 
 ]
-("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
-ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
-x-files\apresentacao_CAP-03_acao-de-Deus.toc"
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-LaTeX Info: Redefining \rmfamily on input line 1.
-LaTeX Info: Redefining \sffamily on input line 1.
-LaTeX Info: Redefining \ttfamily on input line 1.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-\l@brazil = a dialect from \language\l@portuges 
-Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [79
+File: ./figs//dawkins.jpg Graphic file (type bmp)
+<./figs//dawkins.jpg>
 
-]
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box161
- [80
+[78
 
 ]
+File: ./figs//peter.png Graphic file (type bmp)
+<./figs//peter.png>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box162
- [81
+[79
 
 ]
+File: ./figs//vaca.jpg Graphic file (type bmp)
+<./figs//vaca.jpg>
+
+Overfull \vbox (26.92397pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box163
- [82
+[80
 
 ]
+File: ./figs//orr.jpg Graphic file (type bmp)
+<./figs//orr.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
 \nord@tmpbox=\box164
- [83
+[81
 
 ]
-\nord@tmpbox=\box165
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
 
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box165
+[82
+
+]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box166
+[83
+
+]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box167
 [84
 
 ]
-\nord@tmpbox=\box166
- [85
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box168
+[85
 
 ]
-\nord@tmpbox=\box167
- [86
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box169
+[86
+
+]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box170
+[87
+
+]
+File: ./figs//clayton.jpg Graphic file (type bmp)
+<./figs//clayton.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box171
+[88
+
+]
+File: ./figs//merovingian.jpg Graphic file (type bmp)
+<./figs//merovingian.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box172
+[89
+
+]
+File: ./figs//sherlock.jpg Graphic file (type bmp)
+<./figs//sherlock.jpg>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box173
+[90
+
+]
+File: ./figs//watson-skinner.png Graphic file (type bmp)
+<./figs//watson-skinner.png>
+
+Overfull \vbox (2.03014pt too high) detected at line 101
+ []
+
+\nord@tmpbox=\box174
+[91
+
+]
+\nord@tmpbox=\box175
+ [92
+
+]
+\nord@tmpbox=\box176
+ [93
+
+]
+\nord@tmpbox=\box177
+ [94
+
+]
+\nord@tmpbox=\box178
+ [95
+
+]
+\nord@tmpbox=\box179
+ [96
+
+]
+\nord@tmpbox=\box180
+ [97
+
+]
+\nord@tmpbox=\box181
+ [98
+
+]
+\nord@tmpbox=\box182
+ [99
+
+]
+\nord@tmpbox=\box183
+ [100
+
+]
+\nord@tmpbox=\box184
+ [101
+
+]
+\nord@tmpbox=\box185
+ [102
+
+]
+\nord@tmpbox=\box186
+ [103
+
+]
+\nord@tmpbox=\box187
+ [104
+
+]
+\nord@tmpbox=\box188
+
+[105
+
+]) (tex/sections/03_sec_perspectivas-antigas.tex
+("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
+ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
+x-files\apresentacao_CAP-03_acao-de-Deus.toc"
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+) [106
 
 ]
 ("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
@@ -1884,121 +1956,53 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [87
-
-]
-\nord@tmpbox=\box168
- [88
-
-]
-\nord@tmpbox=\box169
- [89
-
-]
-\nord@tmpbox=\box170
- [90
-
-]
-\nord@tmpbox=\box171
- [91
-
-]
-\nord@tmpbox=\box172
-
-[92
-
-]
-\nord@tmpbox=\box173
- [93
-
-]
-\nord@tmpbox=\box174
- [94
-
-]
-\nord@tmpbox=\box175
- [95
-
-]
-\nord@tmpbox=\box176
- [96
-
-]
-\nord@tmpbox=\box177
- [97
-
-]
-\nord@tmpbox=\box178
- [98
-
-]
-\nord@tmpbox=\box179
- [99
-
-]
-\nord@tmpbox=\box180
- [100
-
-]
-\nord@tmpbox=\box181
- [101
-
-]
-\nord@tmpbox=\box182
- [102
-
-]
-\nord@tmpbox=\box183
- [103
-
-]
-\nord@tmpbox=\box184
- [104
-
-]
-\nord@tmpbox=\box185
- [105
-
-]
-\nord@tmpbox=\box186
-
-[106
-
-]
-\nord@tmpbox=\box187
- [107
-
-]
-\nord@tmpbox=\box188
- [108
+) [107
 
 ]
 \nord@tmpbox=\box189
- [109
+ [108
 
 ]
 \nord@tmpbox=\box190
- [110
+ [109
 
 ]
 \nord@tmpbox=\box191
- [111
+ [110
 
 ]
 \nord@tmpbox=\box192
- [112
+ [111
 
 ]
 \nord@tmpbox=\box193
- [113
+
+[112
 
 ]
 \nord@tmpbox=\box194
- [114
+ [113
 
 ]
 \nord@tmpbox=\box195
- [115
+ [114
+
+]
+("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
+ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
+x-files\apresentacao_CAP-03_acao-de-Deus.toc"
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+\l@brazil = a dialect from \language\l@portuges 
+Package polyglossia Info: Option: portuguese, variant=brazilian.
+) [115
 
 ]
 \nord@tmpbox=\box196
@@ -2010,8 +2014,7 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 
 ]
 \nord@tmpbox=\box198
-
-[118
+ [118
 
 ]
 \nord@tmpbox=\box199
@@ -2019,7 +2022,8 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 
 ]
 \nord@tmpbox=\box256
- [120
+
+[120
 
 ]
 \nord@tmpbox=\box257
@@ -2059,8 +2063,7 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 
 ]
 \nord@tmpbox=\box266
-
-[130
+ [130
 
 ]
 \nord@tmpbox=\box267
@@ -2068,7 +2071,8 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 
 ]
 \nord@tmpbox=\box268
- [132
+
+[132
 
 ]
 \nord@tmpbox=\box269
@@ -2099,137 +2103,82 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
  [139
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box276
-[140
+ [140
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box277
-[141
+ [141
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box278
-[142
+ [142
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box279
-[143
+ [143
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box280
+
 [144
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box281
-[145
+ [145
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box282
-[146
+ [146
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box283
-[147
+ [147
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box284
-[148
+ [148
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box285
-[149
+ [149
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box286
-[150
+ [150
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box287
-[151
+ [151
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box288
-[152
+ [152
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box289
-[153
+ [153
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box290
-[154
+ [154
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box291
-[155
+ [155
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box292
+
 [156
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box293
-[157
+ [157
 
 ]
-Overfull \vbox (3.70958pt too high) detected at line 173
- []
-
 \nord@tmpbox=\box294
-[158
+ [158
 
 ]
 \nord@tmpbox=\box295
@@ -2256,6 +2205,175 @@ Overfull \vbox (3.70958pt too high) detected at line 173
  [164
 
 ]
+\nord@tmpbox=\box301
+ [165
+
+]
+\nord@tmpbox=\box302
+ [166
+
+]
+\nord@tmpbox=\box303
+ [167
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box304
+[168
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box305
+[169
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box306
+[170
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box307
+[171
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box308
+[172
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box309
+[173
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box310
+[174
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box311
+[175
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box312
+[176
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box313
+[177
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box314
+[178
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box315
+[179
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box316
+[180
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box317
+[181
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box318
+[182
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box319
+[183
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box320
+[184
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box321
+[185
+
+]
+Overfull \vbox (3.70958pt too high) detected at line 173
+ []
+
+\nord@tmpbox=\box322
+[186
+
+]
+\nord@tmpbox=\box323
+ [187
+
+]
+\nord@tmpbox=\box324
+ [188
+
+]
+\nord@tmpbox=\box325
+ [189
+
+]
+\nord@tmpbox=\box326
+ [190
+
+]
+\nord@tmpbox=\box327
+ [191
+
+]
+\nord@tmpbox=\box328
+ [192
+
+]
 ("C:\Users\Icaro\Documents\Ícaro\Universidade\UFRB\02. Pesquisa\Ciência e Relig
 ião\ciencia-religiao-e-naturalismo\apresentacao_CAP-03_acao-de-Deus-no-mundo\au
 x-files\apresentacao_CAP-03_acao-de-Deus.toc"
@@ -2270,68 +2388,68 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [165
+) [193
 
 ]
-\nord@tmpbox=\box301
- [166
+\nord@tmpbox=\box329
+ [194
 
 ]
-\nord@tmpbox=\box302
- [167
+\nord@tmpbox=\box330
+ [195
 
 ]
-\nord@tmpbox=\box303
- [168
+\nord@tmpbox=\box331
+ [196
 
 ]
-\nord@tmpbox=\box304
- [169
+\nord@tmpbox=\box332
+ [197
 
 ]
-\nord@tmpbox=\box305
+\nord@tmpbox=\box333
 
-[170
-
-]
-\nord@tmpbox=\box306
- [171
+[198
 
 ]
-\nord@tmpbox=\box307
- [172
+\nord@tmpbox=\box334
+ [199
 
 ]
-\nord@tmpbox=\box308
- [173
+\nord@tmpbox=\box335
+ [200
 
 ]
-\nord@tmpbox=\box309
- [174
+\nord@tmpbox=\box336
+ [201
 
 ]
-\nord@tmpbox=\box310
- [175
+\nord@tmpbox=\box337
+ [202
 
 ]
-\nord@tmpbox=\box311
- [176
+\nord@tmpbox=\box338
+ [203
 
 ]
-\nord@tmpbox=\box312
- [177
+\nord@tmpbox=\box339
+ [204
 
 ]
-\nord@tmpbox=\box313
- [178
+\nord@tmpbox=\box340
+ [205
 
 ]
-\nord@tmpbox=\box314
- [179
+\nord@tmpbox=\box341
+ [206
 
 ]
-\nord@tmpbox=\box315
- [180
+\nord@tmpbox=\box342
+ [207
+
+]
+\nord@tmpbox=\box343
+ [208
 
 ])
 (tex/sections/04_referencias.tex
@@ -2349,7 +2467,7 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
-) [181
+) [209
 
 ]
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -2360,8 +2478,8 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
-\nord@tmpbox=\box316
- [182
+\nord@tmpbox=\box344
+ [210
 
 ])
 \tf@nav=\write6
@@ -2423,17 +2541,27 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 )
-Package rerunfilecheck Info: File `apresentacao_CAP-03_acao-de-Deus.out' has no
-t changed.
-(rerunfilecheck)             Checksum: EFDF6E81C17E7BCE4392D2AF61FBF669;540.
+
+Package rerunfilecheck Warning: File `apresentacao_CAP-03_acao-de-Deus.out' has
+ changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `apresentacao_CAP-03_acao-de-Deus.ou
+t':
+(rerunfilecheck)             Before: 7A88684FE4980537617F5D7AB5A43000;99
+(rerunfilecheck)             After:  4523FDEE495408D4C2BAF28D66608BD4;542.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 29106 strings out of 412197
- 584758 string characters out of 2853944
- 984580 words of memory out of 3000000
- 47980 multiletter control sequences out of 15000+200000
- 545709 words of font info for 112 fonts, out of 3000000 for 9000
+ 29065 strings out of 412197
+ 584278 string characters out of 2853944
+ 959455 words of memory out of 3000000
+ 47942 multiletter control sequences out of 15000+200000
+ 544097 words of font info for 105 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  125i,19n,126p,495b,1141s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on apresentacao_CAP-03_acao-de-Deus.pdf (182 pages).
+Output written on apresentacao_CAP-03_acao-de-Deus.pdf (210 pages).
