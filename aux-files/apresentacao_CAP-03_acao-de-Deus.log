@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  16 NOV 2020 11:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.10)  16 NOV 2020 11:48
 entering extended mode
 **./apresentacao_CAP-03_acao-de-Deus.tex
 (apresentacao_CAP-03_acao-de-Deus.tex
@@ -2541,26 +2541,16 @@ Package polyglossia Info: Option: portuguese, variant=brazilian.
 \l@brazil = a dialect from \language\l@portuges 
 Package polyglossia Info: Option: portuguese, variant=brazilian.
 )
-
-Package rerunfilecheck Warning: File `apresentacao_CAP-03_acao-de-Deus.out' has
- changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `apresentacao_CAP-03_acao-de-Deus.ou
-t':
-(rerunfilecheck)             Before: 7A88684FE4980537617F5D7AB5A43000;99
-(rerunfilecheck)             After:  4523FDEE495408D4C2BAF28D66608BD4;542.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `apresentacao_CAP-03_acao-de-Deus.out' has no
+t changed.
+(rerunfilecheck)             Checksum: 4523FDEE495408D4C2BAF28D66608BD4;542.
  ) 
 Here is how much of TeX's memory you used:
- 29065 strings out of 412197
- 584278 string characters out of 2853944
- 959455 words of memory out of 3000000
- 47942 multiletter control sequences out of 15000+200000
- 544097 words of font info for 105 fonts, out of 3000000 for 9000
+ 29150 strings out of 412197
+ 585397 string characters out of 2853944
+ 994492 words of memory out of 3000000
+ 48022 multiletter control sequences out of 15000+200000
+ 545725 words of font info for 114 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  125i,19n,126p,495b,1141s stack positions out of 5000i,500n,10000p,200000b,50000s
 
