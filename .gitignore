@@ -1,0 +1,7 @@
+# Comando para deletar a pasta aux-files
+
+aux-files/
+
+# Comando para deletar o arquivo
+
+*.synctex
